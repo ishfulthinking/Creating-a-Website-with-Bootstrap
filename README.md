@@ -667,4 +667,11 @@ And now the page's bottom looks like this:
 
 ![Demo pic 4b](media/demo4b.PNG)
 
-And if it doesn't, check out the [HTML here](demo4b.html) and [CSS here](demo4b.css).
+And if it doesn't, check out the [HTML here](demo4b.html) and [CSS here](demo4b.css).  
+
+So with that... we're done! You've completed a Bootstrap personal website super 
+quick. Congrats!  
+
+If you have more customizations you want to make, try mixing and matching the components 
+we used earlier. I also recommend checking out the Bootstrap documentation, which 
+can teach you how to make parts like forms and more.
